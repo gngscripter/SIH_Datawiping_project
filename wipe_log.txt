@@ -1,0 +1,95 @@
+[2025-09-10 08:41:40] User chose to proceed with wiping.
+[2025-09-10 14:06:18] ❌ Invalid index '[A[A[A[Bpython -u "/Users/akshat/Desktop/SIH_project_datawiping/main.py"'. Please enter a number from the list.
+[2025-09-10 14:14:44] User chose to proceed with wiping.
+[2025-09-10 14:14:47] User selected disk index: 2
+[2025-09-10 14:14:47] Preparing wipe simulation for disk: /dev/disk3s2
+[2025-09-10 14:14:51] Skipping overwrite for empty file: dummy_file.txt
+[2025-09-10 14:15:17] User chose to proceed with wiping.
+[2025-09-10 14:15:18] User selected disk index: 2
+[2025-09-10 14:15:18] Preparing wipe simulation for disk: /dev/disk3s2
+[2025-09-10 14:15:19] NIST 800-88 wipe completed on: dummy_file.txt
+[2025-09-11 09:11:44] User chose to proceed with wiping.
+[2025-09-11 09:12:16] User selected disk index: 2
+[2025-09-11 09:12:16] Preparing wipe simulation for disk: /dev/disk3s2
+[2025-09-11 09:13:05] NIST 800-88 wipe completed on: dummy_file.txt
+[2025-09-11 09:27:23] User chose to proceed with wiping.
+[2025-09-11 09:27:31] User selected disk index: 3
+[2025-09-11 09:27:31] Preparing wipe simulation for disk: /dev/disk3s4
+[2025-09-11 09:28:01] NIST 800-88 wipe completed on: dummy_file.txt
+[2025-09-11 11:45:06] User chose to proceed with wiping.
+[2025-09-11 11:45:07] User selected disk index: 2
+[2025-09-11 11:45:07] Preparing wipe simulation for disk: /dev/disk3s2
+[2025-09-11 11:45:12] Crypto erase simulated on dummy_file.txt (key destroyed)
+[2025-09-11 11:52:09] User chose to proceed with wiping.
+[2025-09-11 11:52:11] User selected disk index: 2
+[2025-09-11 11:52:11] Preparing wipe simulation for disk: /dev/disk3s2
+[2025-09-11 11:52:24] Multi-pass overwrite: Completed pass 1/4 on dummy_file.txt
+[2025-09-11 11:52:24] Multi-pass overwrite: Completed pass 2/4 on dummy_file.txt
+[2025-09-11 11:52:24] Multi-pass overwrite: Completed pass 3/4 on dummy_file.txt
+[2025-09-11 11:52:24] Multi-pass overwrite: Completed pass 4/4 on dummy_file.txt
+[2025-09-11 11:52:24] Multi-pass overwrite (4 passes) completed on dummy_file.txt
+[2025-09-11 11:52:44] User chose to proceed with wiping.
+[2025-09-11 11:52:46] User selected disk index: 2
+[2025-09-11 11:52:46] Preparing wipe simulation for disk: /dev/disk3s2
+[2025-09-11 11:52:49] Multi-pass overwrite: Completed pass 1/4 on dummy_file.txt
+[2025-09-11 11:52:49] Multi-pass overwrite: Completed pass 2/4 on dummy_file.txt
+[2025-09-11 11:52:49] Multi-pass overwrite: Completed pass 3/4 on dummy_file.txt
+[2025-09-11 11:52:49] Multi-pass overwrite: Completed pass 4/4 on dummy_file.txt
+[2025-09-11 11:52:49] Multi-pass overwrite (4 passes) completed on dummy_file.txt
+[2025-09-11 11:59:14] User chose to proceed with wiping.
+[2025-09-11 11:59:16] User selected disk index: 2
+[2025-09-11 11:59:16] Preparing wipe simulation for disk: /dev/disk3s2
+[2025-09-11 11:59:18] DoD 3-pass wipe: Completed pass 1 on dummy_file.txt
+[2025-09-11 11:59:18] DoD 3-pass wipe: Completed pass 2 on dummy_file.txt
+[2025-09-11 11:59:18] DoD 3-pass wipe: Completed pass 3 on dummy_file.txt
+[2025-09-11 11:59:18] DoD 5220.22-M wipe fully completed on dummy_file.txt
+[2025-09-11 11:59:18] Certification recorded on MongoDB chain
+[2025-09-11 11:59:54] User chose to proceed with wiping.
+[2025-09-11 11:59:56] User selected disk index: 2
+[2025-09-11 11:59:56] Preparing wipe simulation for disk: /dev/disk3s2
+[2025-09-11 11:59:59] Crypto erase simulated on dummy_file.txt (key destroyed)
+[2025-09-11 11:59:59] Certification recorded on MongoDB chain
+[2025-09-11 12:26:55] User chose to proceed with wiping.
+[2025-09-11 12:27:11] User selected disk index: 3
+[2025-09-11 12:27:11] Preparing wipe simulation for disk: /dev/disk3s4
+[2025-09-11 12:27:32] NIST 800-88 wipe completed on: dummy_file.txt
+[2025-09-11 12:27:32] Certification recorded on MongoDB chain
+[2025-09-11 14:05:42] User chose to proceed with wiping.
+[2025-09-11 14:06:25] User selected disk index: 8
+[2025-09-11 14:06:25] Preparing wipe simulation for disk: /dev/disk5s1
+[2025-09-11 14:06:37] Multi-pass overwrite: Completed pass 1/6 on dummy_file.txt
+[2025-09-11 14:06:37] Multi-pass overwrite: Completed pass 2/6 on dummy_file.txt
+[2025-09-11 14:06:37] Multi-pass overwrite: Completed pass 3/6 on dummy_file.txt
+[2025-09-11 14:06:37] Multi-pass overwrite: Completed pass 4/6 on dummy_file.txt
+[2025-09-11 14:06:37] Multi-pass overwrite: Completed pass 5/6 on dummy_file.txt
+[2025-09-11 14:06:37] Multi-pass overwrite: Completed pass 6/6 on dummy_file.txt
+[2025-09-11 14:06:37] Multi-pass overwrite (6 passes) completed on dummy_file.txt
+[2025-09-11 14:06:37] Certification recorded on MongoDB chain
+[2025-09-12 00:32:52] User chose to proceed with wiping.
+[2025-09-12 00:33:11] User selected disk index: 3
+[2025-09-12 00:33:11] Preparing wipe simulation for disk: /dev/disk3s4
+[2025-09-12 00:33:29] NIST 800-88 wipe completed on: dummy_file.txt
+[2025-09-12 00:33:29] Certification recorded on MongoDB chain
+[2025-09-12 00:46:11] User chose to proceed with wiping.
+[2025-09-12 00:47:44] User selected disk index: 2
+[2025-09-12 00:47:44] Preparing wipe simulation for disk: /dev/disk3s2
+[2025-09-12 00:48:48] NIST 800-88 wipe completed on: dummy_file.txt
+[2025-09-12 00:48:48] Certification recorded on MongoDB chain
+[2025-09-12 08:56:00] User chose to proceed with wiping.
+[2025-09-12 08:56:09] User selected disk index: 5
+[2025-09-12 08:56:09] Preparing wipe simulation for disk: /dev/disk1s1
+[2025-09-12 08:56:21] DoD 3-pass wipe: Completed pass 1 on dummy_file.txt
+[2025-09-12 08:56:21] DoD 3-pass wipe: Completed pass 2 on dummy_file.txt
+[2025-09-12 08:56:21] DoD 3-pass wipe: Completed pass 3 on dummy_file.txt
+[2025-09-12 08:56:21] DoD 5220.22-M wipe fully completed on dummy_file.txt
+[2025-09-12 08:56:21] Certification recorded on MongoDB chain
+[2025-09-12 11:25:13] User chose to proceed with wiping.
+[2025-09-12 11:25:30] User selected disk index: 2
+[2025-09-12 11:25:30] Preparing wipe simulation for disk: /dev/disk3s2
+[2025-09-12 11:25:49] NIST 800-88 wipe completed on: dummy_file.txt
+[2025-09-12 11:25:49] Certification recorded on MongoDB chain
+[2025-09-12 11:35:45] User chose to proceed with wiping.
+[2025-09-12 11:35:49] User selected disk index: 3
+[2025-09-12 11:35:49] Preparing wipe simulation for disk: /dev/disk3s4
+[2025-09-12 11:35:51] NIST 800-88 wipe completed on: dummy_file.txt
+[2025-09-12 11:35:51] Certification recorded on MongoDB chain
